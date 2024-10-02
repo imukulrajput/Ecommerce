@@ -1,9 +1,16 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined");
+
+@import url("https://uilight.netlify.app/main.css");
+
+@import url("./styles/utility.css");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-:root {
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -70,4 +77,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
